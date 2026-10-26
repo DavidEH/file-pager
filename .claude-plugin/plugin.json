@@ -1,0 +1,6 @@
+{
+  "name": "file-pager",
+  "version": "0.2.0",
+  "description": "/view <path> pages a file in a pane with less-style keys; a show tool lets Claude pin a document there, Markdown rendered",
+  "types": "./types/index.d.ts"
+}
