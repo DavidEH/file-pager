@@ -1,0 +1,5 @@
+{
+  "name": "file-pager",
+  "owner": { "name": "David Esperanza" },
+  "plugins": [{ "name": "file-pager", "source": "./" }]
+}
